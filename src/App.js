@@ -11,8 +11,8 @@ function App() {
     <HashRouter>
       <Navigation exact={false} />
       <Routes>
-        <Route path="/" exact={true} element={<Home />} />
-        <Route path="/about" exact={true} element={<About />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
         <Route path="/movie-detail" element={<Detail />}></Route>
       </Routes>
     </HashRouter>

@@ -2,7 +2,7 @@
   "name": "movie_app_2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ncms0820.github.io",
+  "homepage": "https://ncms0820.github.io/Movie_App_2020_nico/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
